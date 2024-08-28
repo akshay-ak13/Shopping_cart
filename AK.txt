@@ -1,0 +1,17 @@
+Customer Name: Akshay
+Phone Number: 9704967418
+Date: 2024-08-28 11:30:23
+Order Id: 202408281130231
+
+Products Ordered:
+Iqooz9 x 5-W/S/ED-1 :$	90000.00
+Banana x 5-W/S/ED-2 :$	100.00
+SamsungS22 x 4-W/S/ED-2 :$	100000.00
+Note: Warranty various as per product. W-Warranty, S-Size,ED-Expiry Days
+----------------------------------------------------------
+Subtotal: $190100.00
+GST (10%): $19010.00
+----------------------------------------------------------
+Total Amount: $209110.00
+----------------------------------------------------------
+Thank You Visit Again!
