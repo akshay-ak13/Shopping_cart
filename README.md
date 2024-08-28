@@ -1,4 +1,6 @@
 Shopping_cart
+
+This is my Preview video link
 https://drive.google.com/file/d/17XbBfv0Kco474aoycInGBM1LgXnDyjfr/view?usp=sharing
 
 This project is an Online Shopping System built in Python, designed to handle both shopping and admin-related functionalities. The system includes categories like Electronics, Clothes, and Fruits, and comes with a set of default products. Users can add products to their cart, manage the cart, place orders, and generate invoices. Admins can also add new products to the system.
